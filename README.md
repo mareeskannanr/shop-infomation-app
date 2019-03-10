@@ -1,5 +1,5 @@
 # shop-infomation-app
-An Utility to Display Active Shops Informations for searched date using Spring Boot, React, Bootstrap
+A Simple Utility to Display Active Shops Informations for searched date using Spring Boot, React, Bootstrap
 
 ## Server Setup
 Goto the folder **spring-boot-server** and run **_gradle clean build_**
