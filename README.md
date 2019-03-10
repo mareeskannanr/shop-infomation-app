@@ -20,5 +20,5 @@ Run **_npm start_** to start the application
 Goto the ui application running url in the browser and check
 
 ## Note
-Folder **screen-shots** contains snaps taken from system for different scenarios of Server and UI, please go through it.
+Folder **screen-shots** contains snaps taken from system for different scenarios of Server and UI functionalities, please go through it.
 
