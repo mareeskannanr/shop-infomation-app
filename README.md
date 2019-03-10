@@ -13,7 +13,7 @@ Run **_gradle test_** to check unit test cases
 ## UI Setup
 Goto the folder **react-ui** and run **_npm install_** to install node_modules
 
-After installed all node_modules goto **src/axios.js** file change _baseURL_ to server url
+After installed all node_modules goto **src/axios.js** file change _baseURL_ to server url e.g **_http://localhost:{your_port}/api_**
 
 Run **_npm start_** to start the application
 
